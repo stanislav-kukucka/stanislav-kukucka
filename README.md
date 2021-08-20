@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stankukuck4 or in other words Stanislav Kukucka for shorter call me Stan.
+- 👋 Hi, I’m [@stanislav-kukucka](https://github.com/stanislav-kukucka) or in other words Stanislav Kukucka for shorter call me Stan.
 - 👀 From marketing I’m up to SEO, ASO, PPC. From dev stuff i'm big fan of various crawling techniques.
 - 📄 You can find my [old Github profile here](https://github.com/stankukucka). It's filled with old repositories i have been working on.
 - ✏️ If you like to read some long-form tutorials feel free to [check my old blog here](https://dev.to/stankukucka).
